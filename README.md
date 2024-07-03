@@ -1,3 +1,3 @@
-# qt-game-project
+# qt-projects
 
-Görsel Programlama çalışmalarım bulunmaktadır.
+QT programlama diliyle ilgili çalışmalarım yer almaktadır.
